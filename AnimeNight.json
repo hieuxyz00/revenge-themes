@@ -1,0 +1,387 @@
+{
+    "name": "AnimeNight v1.2",
+    "description": "Random BG... (Dark Mode) (Themes+)",
+    "authors": [
+        {
+            "name": "hieuxyz",
+            "id": "994819569795485747"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#FF6B8A"
+        ],
+        "HEADER_SECONDARY": [
+            "#FF8FAB"
+        ],
+        "TEXT_NORMAL": [
+            "#FFE4E1"
+        ],
+        "TEXT_SECONDARY": [
+            "#FFB3C6"
+        ],
+        "TEXT_PRIMARY": [
+            "#FFE4E1"
+        ],
+        "TEXT_MUTED": [
+            "#FFB3C6"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#FFB3C6"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#FF9CB4"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#FFB3C6"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#4F9EFF"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#FFD1DC"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "rgba(0, 0, 0, 0.7)"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "rgba(98, 0, 38, 0.7)"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "rgba(116, 16, 52, 0.7)"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#FF6B8A"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "rgba(140, 40, 70, 0.7)"
+        ],
+        "BG_BASE_PRIMARY": [
+            "rgba(0, 0, 0, 0.7)"
+        ],
+        "BG_BASE_SECONDARY": [
+            "rgba(98, 0, 38, 0.7)"
+        ],
+        "BG_BASE_TERTIARY": [
+            "rgba(140, 40, 70, 0.7)"
+        ],
+        "BG_BACKDROP": [
+            "rgba(0, 0, 0, 0.85)"
+        ],
+        "BACKGROUND_ACCENT": [
+            "rgba(200, 69, 96, 0.6)"
+        ],
+        "BACKGROUND_FLOATING": [
+            "rgba(0, 0, 0, 0.85)"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "rgba(0, 0, 0, 0.7)"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "rgba(98, 0, 38, 0.7)"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "rgba(220, 120, 140, 0.3)"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "rgba(200, 69, 96, 0.2)"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "rgba(200, 69, 96, 0.3)"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "rgba(200, 69, 96, 0.4)"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "rgba(79, 158, 255, 0.3)"
+        ],
+        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+            "#FFB3C6"
+        ],
+        "REDESIGN_CHANNEL_NAME_TEXT": [
+            "#FFD1DC"
+        ],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "rgba(116, 16, 52, 0.7)"
+        ],
+        "BUTTON_OUTLINE_BRAND_BACKGROUND": [
+            "rgba(98, 0, 38, 0.7)"
+        ],
+        "BUTTON_OUTLINE_BRAND_BOARDER": [
+            "rgba(98, 0, 38, 0.7)"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+            "rgba(98, 0, 38, 0.7)"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "rgba(180, 30, 80, 0.6)"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+            "#FF8FAB"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#4F9EFF"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#4F9EFF"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "rgba(0, 0, 0, 0.3)"
+        ],
+        "BORDER_FAINT": [
+            "#FF6B8A"
+        ],
+        "BORDER_STRONG": [
+            "#FF6B8A"
+        ],
+        "BORDER_SUBTLE": [
+            "#FF6B8A"
+        ],
+        "DIVIDER_STRONG": [
+            "#FF6B8A"
+        ],
+        "DIVIDER_SUBTLE": [
+            "#FF6B8A"
+        ],
+        "TEXT_LINK": [
+            "#4F9EFF"
+        ],
+        "TEXT_DANGER": [
+            "#FF5478"
+        ],
+        "CHANNEL_ICON": [
+            "#4F9EFF"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#FF9CB4"
+        ],
+        "CHAT_BACKGROUND": [
+            "rgba(0, 0, 0, 0.5)"
+        ],
+        "CARD_PRIMARY_BG": [
+            "rgba(116, 16, 52, 0.7)"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "rgba(79, 158, 255, 0.3)"
+        ],
+        "MENTION_BACKGROUND": [
+            "rgba(79, 158, 255, 0.3)"
+        ],
+        "MENTION_FOREGROUND": [
+            "#FFE4E1"
+        ]
+    },
+    "rawColors": {
+        "BRAND_360": "#FFE4E1",
+        "BRAND_500": "#FF9CB4",
+        "BRAND_560": "#FFE4E1",
+        "PRIMARY_160": "#FF6B8A",
+        "PRIMARY_300": "#FF6B8A",
+        "PRIMARY_330": "#FF6B8A",
+        "PRIMARY_400": "#FF9CB4",
+        "PRIMARY_430": "#FF6B8A",
+        "PRIMARY_645": "#FF6B8A",
+        "PRIMARY_500": "rgba(98, 0, 38, 0.7)",
+        "PRIMARY_660": "rgba(116, 16, 52, 0.95)",
+        "PRIMARY_600": "rgba(116, 16, 52, 0.8)",
+        "PRIMARY_700": "rgba(98, 0, 38, 0.7)",
+        "PRIMARY_800": "rgba(0, 0, 0, 0.6)",
+        "RED_100": "#FFFFFF",
+        "GREEN_430": "rgba(98, 0, 38, 0.6)",
+        "GREEN_360": "#4F9EFF",
+        "BLUE_345": "#FF6B8A",
+        "BLUE_330": "#FF8FAB",
+        "YELLOW_300": "#FF6B8A",
+        "WHITE_630": "#FF8FAB",
+        "WHITE_500": "#FFFFFF",
+        "BLACK_500": "#FFB3C6",
+        "PLUM_1": "#FFFFFF",
+        "PLUM_3": "#FF9CB4",
+        "PLUM_6": "#FFFFFF",
+        "PLUM_10": "#FFFFFF",
+        "PLUM_11": "rgba(98, 0, 38, 0.6)",
+        "PLUM_13": "#FF8FAB",
+        "PLUM_15": "#FF6B8A",
+        "PLUM_16": "rgba(98, 0, 38, 0.6)",
+        "PLUM_17": "rgba(116, 16, 52, 0.7)",
+        "PLUM_18": "rgba(98, 0, 38, 0.6)",
+        "PLUM_19": "rgba(98, 0, 38, 0.6)",
+        "PLUM_20": "rgba(98, 0, 38, 0.6)",
+        "PLUM_26": "rgba(98, 0, 38, 0.6)",
+        "PLUM_22": "rgba(98, 0, 38, 0.6)",
+        "PLUM_24": "rgba(200, 69, 96, 0.4)"
+    },
+    "plus": {
+        "version": "0",
+        "customOverlays": true,
+        "mentionLineColor": "#FF6B8A",
+        "iconpack": "rosiecord-plumpy",
+        "icons": {
+            "add": "#4F9EFF",
+            "android-close": "#4F9EFF",
+            "ArrowLargeLeftIcon": "#4F9EFF",
+            "AtIcon": "#4F9EFF",
+            "Audio": "#4F9EFF",
+            "GiftIcon": "#4F9EFF",
+            "back-icon": "#4F9EFF",
+            "ChannelsTextIcon": "#4F9EFF",
+            "close": "#4F9EFF",
+            "FormRadio": "#4F9EFF",
+            "hub-invite": "#4F9EFF",
+            "hub-add": "#4F9EFF",
+            "ic_add_reaction_v2": "#4F9EFF",
+            "ic_add_super_reaction": "#4F9EFF",
+            "ic_arrow_back_24px": "#4F9EFF",
+            "ic_arrow_forward_24px": "#4F9EFF",
+            "ArrowLargeRightIcon": "#4F9EFF",
+            "WindowLaunchIcon": "#4F9EFF",
+            "ic_lock": "#4F9EFF",
+            "GroupIcon": "#4F9EFF",
+            "ic_members": "#4F9EFF",
+            "ic_text_channel_16px": "#4F9EFF",
+            "ic_add_friend": "#4F9EFF",
+            "ic_ban_24px": "#4F9EFF",
+            "ic_call_ended": "#4F9EFF",
+            "ic_add_24px": "#4F9EFF",
+            "ic_gift_24px": "#4F9EFF",
+            "ic_add_18px": "#4F9EFF",
+            "ChannelNotificationIcon-primary": "#4F9EFF",
+            "ChannelNotificationIcon-secondary": "#4F9EFF",
+            "ic_chat_bubble_12px": "#FFB3C6",
+            "ic_chat_bubble_16px": "#FFB3C6",
+            "ic_chat_bubble_32px": "#FFB3C6",
+            "ic_copy_id": "#4F9EFF",
+            "ic_copy_message_link": "#4F9EFF",
+            "ic_close": "#4F9EFF",
+            "ic_close_16px": "#4F9EFF",
+            "ic_close_18px": "#4F9EFF",
+            "ic_close_24px": "#4F9EFF",
+            "ic_crown_16px": "#4F9EFF",
+            "ic_dm": "#4F9EFF",
+            "ic_download_24px": "#4F9EFF",
+            "ic_duplicate": "#4F9EFF",
+            "ic_edit_20px": "#4F9EFF",
+            "ic_edit_24px": "#4F9EFF",
+            "ic_gear": "#4F9EFF",
+            "ic_gif_24px": "#4F9EFF",
+            "ic_group_edit_18px": "#4F9EFF",
+            "ic_settings": "#4F9EFF",
+            "ic_show_password": "#4F9EFF",
+            "ic_sticker_24px": "#4F9EFF",
+            "ic_sync_24px": "#4F9EFF",
+            "ic_launch": "#4F9EFF",
+            "ic_logout_24px": "#4F9EFF",
+            "ic_mention_24px": "#4F9EFF",
+            "ic_mention_user": "#4F9EFF",
+            "ic_mark_unread": "#4F9EFF",
+            "ic_message_copy": "#4F9EFF",
+            "ic_message_delete": "#4F9EFF",
+            "ic_message_edit": "#4F9EFF",
+            "ic_message_pin": "#4F9EFF",
+            "ic_mic_neutral": "#4F9EFF",
+            "ic_mic_muted_neutral": "#4F9EFF",
+            "ic_new_pins": "#FF6B8A",
+            "ic_new_pins_light": "#FF6B8A",
+            "ic_new_pins_light__overlay": "#4F9EFF",
+            "ic_notification_settings_light": "#FF6B8A",
+            "ic_notification_settings_light__overlay": "#4F9EFF",
+            "ic_pencil_24px": "#4F9EFF",
+            "ic_radio_square_24px": "#FF6B8A",
+            "ic_radio_square_checked_24px": "#FF6B8A",
+            "ic_radio_square_checked_24px__overlay": "#4F9EFF",
+            "ic_reply_24px": "#4F9EFF",
+            "ic_robot_24px": "#4F9EFF",
+            "ic_selection_checked_24px": "#FF6B8A",
+            "ic_selection_checked_24px__overlay": "#4F9EFF",
+            "ic_spotify_white_16px": "#FF6B8A",
+            "img_account_sync_spotify_white": "#4F9EFF",
+            "ic_check": "#FF6B8A",
+            "ic_check__overlay": "#4F9EFF",
+            "ic_filter": "#4F9EFF",
+            "ic_link_24px": "#4F9EFF",
+            "ic_radio_circle_checked": "#4F9EFF",
+            "ic_radio_circle_checked__overlay": "#4F9EFF",
+            "ic_report_message": "#4F9EFF",
+            "ic_search": "#4F9EFF",
+            "ic_selection_none_24px": "#4F9EFF",
+            "ic_send": "#4F9EFF",
+            "ic_settings_white_24px": "#4F9EFF",
+            "ic_settings_grey_24px": "#4F9EFF",
+            "ic_play": "#4F9EFF",
+            "VoiceNormalIcon": "#4F9EFF",
+            "speaker": "#4F9EFF",
+            "ic_stage_channel_24px": "#4F9EFF",
+            "StageIcon": "#4F9EFF",
+            "TopicsIcon": "#4F9EFF",
+            "ic_thread_normal_24px": "#4F9EFF",
+            "ic_volume": "#4F9EFF",
+            "stack-nav-close": "#4F9EFF",
+            "ic_star_filled": "#FFB3C6",
+            "ic_soundboard": "#4F9EFF",
+            "ic_soundboard_muted": "#4F9EFF",
+            "ic_rich_presence_dark_12px": "#FFB3C6",
+            "icon-call": "#4F9EFF",
+            "icon-invite": "#4F9EFF",
+            "icon-settings": "#4F9EFF",
+            "member_list_badge_16px": "#4F9EFF",
+            "Messages": "#FFB3C6",
+            "nav_header_connect": "#FF6B8A",
+            "pencil": "#4F9EFF",
+            "PencilIcon": "#4F9EFF",
+            "PhoneCallIcon": "#4F9EFF",
+            "PlusLargeIcon": "#4F9EFF",
+            "ThreadPlusIcon": "#4F9EFF",
+            "ImageLargeIcon": "#4F9EFF",
+            "ImageFileIcon": "#4F9EFF",
+            "SendMessageIcon": "#4F9EFF",
+            "stack-nav-back": "#4F9EFF",
+            "arrow-right": "#4F9EFF",
+            "star": "#4F9EFF",
+            "settings": "#4F9EFF",
+            "SettingsIcon": "#4F9EFF",
+            "StarOutlineIcon": "#4F9EFF",
+            "StatusMobileOnline": "#4F9EFF",
+            "StatusIdle": "#FFB3C6",
+            "StatusDND": "#FF6B8A",
+            "StatusOffline": "#FF8FAB",
+            "StatusOnline": "#4F9EFF",
+            "StatusStreaming": "#FF6B8A",
+            "UserPlusIcon": "#4F9EFF",
+            "ic_add_text": "#4F9EFF",
+            "toast_copy_link": "#4F9EFF",
+            "toast_copy_message": "#4F9EFF",
+            "toast_image_saved": "#4F9EFF"
+        }
+    },
+    "fonts": {
+        "ABCGintoNord-ExtraBold": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Bold.ttf",
+        "ggsans-Bold": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-BoldIt.ttf",
+        "ggsans-ExtraBold": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Bold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-BoldIt.ttf",
+        "ggsans-Medium": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Medium.ttf",
+        "ggsans-MediumItalic": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-MediumIt.ttf",
+        "ggsans-Normal": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-It.ttf",
+        "ggsans-Semibold": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Semibold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-SemiboldIt.ttf",
+        "NotoSans-Bold": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Bold.ttf",
+        "NotoSans-Medium": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Medium.ttf",
+        "NotoSans-Normal": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Regular.ttf",
+        "NotoSans-NormalItalic": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-It.ttf",
+        "NotoSans-Semibold": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Semibold.ttf",
+        "SourceCodePro-Semibold": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Semibold.ttf"
+    },
+    "background": {
+        "blur": 2.2,
+        "url": "https://dmoe.cc/random.php",
+        "alpha": 0.5
+    },
+    "color": "#FF6B8A",
+    "spec": 2,
+    "customCSS": ".theme-dark, .theme-light { --background-primary: rgba(0, 0, 0, var(--bg-opacity)) !important; --background-secondary: rgba(98, 0, 38, calc(var(--bg-opacity) - 0.1)) !important; --background-secondary-alt: rgba(116, 16, 52, calc(var(--bg-opacity) - 0.2)) !important; --background-tertiary: rgba(140, 40, 70, calc(var(--bg-opacity) - 0.1)) !important; --background-accent: rgba(200, 69, 96, calc(var(--bg-opacity) - 0.1)) !important; --background-floating: rgba(0, 0, 0, calc(var(--bg-opacity) + 0.1)) !important; } .wrapper-3NnKdC, .scroller-1Bvpku { background-color: rgba(98, 0, 38, calc(var(--bg-opacity) - 0.2)) !important; } .channelTextArea-rNsIhG { background-color: rgba(116, 16, 52, calc(var(--bg-opacity) - 0.1)) !important; } .scrollableContainer-2NUZem { background-color: rgba(140, 40, 70, calc(var(--bg-opacity) - 0.3)) !important; } .content-1x5b-n { background-color: rgba(0, 0, 0, calc(var(--bg-opacity) - 0.1)) !important; } .mentioned-xhSam7:before { background-color: rgba(79, 158, 255, 0.2) !important; } .mentioned-xhSam7 { background-color: rgba(79, 158, 255, 0.05) !important; } .message-2qnXI6:hover { background-color: rgba(200, 69, 96, 0.05) !important; } .container-3baos1 { background-color: rgba(140, 40, 70, calc(var(--bg-opacity) - 0.1)) !important; } .panels-j1Uci_ { background-color: rgba(116, 16, 52, calc(var(--bg-opacity) - 0.1)) !important; } .sidebar-2K8pFh { background-color: rgba(98, 0, 38, calc(var(--bg-opacity) + 0.1)) !important; } .item-PXvHYJ { background-color: rgba(200, 69, 96, 0.2) !important; } .item-PXvHYJ:hover { background-color: rgba(200, 69, 96, 0.4) !important; } .unread-2lAfLh { background-color: #4F9EFF !important; } .newMessagesBar-265mhP { background-color: #4F9EFF !important; } .username-1A8OIy { color: #FF6B8A !important; text-shadow: 0 0 3px rgba(0, 0, 0, 0.5); } .topic-TCb_qw { color: #FF8FAB !important; text-shadow: 0 0 2px rgba(0, 0, 0, 0.5); } :root { --bg-opacity: 0.7; } @keyframes adjustBrightness { 0% { --bg-opacity: 0.7; } 100% { --bg-opacity: 0.9; } } body { animation: adjustBrightness 5s ease-in-out infinite alternate; } .mentioned-xhSam7 { position: relative; overflow: hidden; } .mentioned-xhSam7::before { content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: radial-gradient(circle, rgba(79,158,255,0.3) 0%, rgba(79,158,255,0) 70%); opacity: 0; transition: opacity 0.3s ease; } .mentioned-xhSam7:hover::before { opacity: 1; } .unread-2lAfLh { animation: pulse 2s infinite; } @keyframes pulse { 0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(79, 158, 255, 0.7); } 70% { transform: scale(1); box-shadow: 0 0 0 10px rgba(79, 158, 255, 0); } 100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(79, 158, 255, 0); } } .markup-2BOw-j { color: #FFE4E1 !important; text-shadow: 0 0 2px rgba(0, 0, 0, 0.5); } .icon-22AiRD { color: #4F9EFF !important; } .button-1YfofB.buttonColor-7qQbGO, .button-1YfofB .buttonColor-7qQbGO { background-color: #4F9EFF !important; } .lookFilled-1Gx00P.colorBrand-3pXr91 { background-color: #4F9EFF !important; } .role-2irmRk { background-color: rgba(79, 158, 255, 0.1) !important; border-color: #4F9EFF !important; } .roleCircle-3xAZ1j { background-color: #4F9EFF !important; } .actionButton-uPB8Fs { background-color: #4F9EFF !important; } .attachButtonPlus-jWVFah { fill: #4F9EFF !important; } .lookOutlined-3sRXeN.colorBrand-3pXr91 { color: #4F9EFF !important; border-color: #4F9EFF !important; } .lookOutlined-3sRXeN.colorBrand-3pXr91:hover { background-color: rgba(79, 158, 255, 0.1) !important; } .lookLink-9FtZy-.colorBrand-3pXr91 { color: #4F9EFF !important; } .lookLink-9FtZy-.colorBrand-3pXr91:hover .contents-18-Yxp { background-image: linear-gradient(0deg,transparent,transparent 1px,#4F9EFF 0,#4F9EFF 2px,transparent 0) !important; } .botTagRegular-2HEhHi { background: #4F9EFF !important; } .wrapper-3WhCwL { color: #4F9EFF !important; background: rgba(79, 158, 255, 0.1) !important; } .wrapper-3WhCwL:hover { background: rgba(79, 158, 255, 0.2) !important; } .colorInteractiveActive-3Ip9Eu { color: #4F9EFF !important; } .icon-1DeIlz { color: #4F9EFF !important; } .selected-1GqIat .icon-1DeIlz { color: #00FF00 !important; } .iconBadge-qZ4Ksk { background-color: #00FF00 !important; } .circleIconButton-1QV--U { color: #4F9EFF !important; } .circleIconButton-1QV--U.selected-1JjBPm { background-color: #4F9EFF !important; color: #FFFFFF !important; } .guilds-1SWlCJ .scroller-1Bvpku { background-color: transparent !important; }"
+}
