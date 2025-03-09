@@ -1,0 +1,17 @@
+{
+    "name": "AnimeNight Background Only v1.0",
+    "description": "Random Anime Background... (Dark Mode)",
+    "authors": [
+        {
+            "name": "hieuxyz",
+            "id": "994819569795485747"
+        }
+    ],
+    "background": {
+        "blur": 2.2,
+        "url": "https://dmoe.cc/random.php",
+        "alpha": 0.5
+    },
+    "color": "#FF6B8A",
+    "spec": 2
+}
