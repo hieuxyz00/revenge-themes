@@ -27,7 +27,7 @@
             "#F5F9FF"
         ],
         "TEXT_MUTED": [
-            "#A0CFFF"
+            "#7AA0C5"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#C4E1FF"
@@ -45,10 +45,10 @@
             "#C4E1FF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#4F9EFF"
+            "#6CD0FF"
         ],
         "INTERACTIVE_MUTED": [
-            "#6A96CC"
+            "#496A94"
         ],
         "BACKGROUND_PRIMARY": [
             "rgba(0, 0, 0, 0.7)"
@@ -174,7 +174,7 @@
             "#4F9EFF"
         ],
         "CHANNELS_DEFAULT": [
-            "#7BADD6"
+            "#59738F"
         ],
         "CHAT_BACKGROUND": [
             "rgba(0, 0, 0, 0.5)"
@@ -449,7 +449,7 @@
             "StatusMobileOnline": "#36DE80",
             "StatusIdle": "#FFCC4D",
             "StatusDND": "#FF3030",
-            "StatusOffline": "#7BADD6",
+            "StatusOffline": "#59738F",
             "StatusOnline": "#36DE80",
             "StatusStreaming": "#C27AFF",
             "UserPlusIcon": "#4F9EFF",
